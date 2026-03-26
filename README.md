@@ -347,7 +347,18 @@ Data Analyst | Excel · Power Query · Power Pivot · DAX · SQL · Python (curr
 
 ## 📄 License
 
-This project is for portfolio and educational purposes. The dataset is sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Online+Retail) and is publicly available.
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for full details.
+
+---
+
+### 📊 Data Source
+
+The dataset used in this project is sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Online+Retail) and is publicly available.
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
 
 ---
 
