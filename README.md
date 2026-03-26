@@ -77,11 +77,24 @@ Customer-level scorecard view showing average CLV, recency, purchase frequency, 
 
 Due to file size limitations, two versions are provided:
 
-* 👉 **GitHub Version**: Includes dashboard with pre-loaded data model (refresh disabled)
-* 👉 **Full Version (with raw data)**:
-  [Download from Google Drive](https://docs.google.com/spreadsheets/d/1bE4_h30jq0SjNlkIJvr7ZfEpHfsC5E4d/edit?usp=sharing&ouid=103795077483112048512&rtpof=true&sd=true)
+- 👉 **GitHub Version**  
+  Includes dashboard with pre-loaded data model *(refresh disabled)*  
 
-> ⚠️ Note: The GitHub version does not include the raw dataset. To refresh data, please use the full version.
+- 👉 **Full Version (with raw data)**  
+  **[⬇️ Download Excel Dashboard](https://drive.google.com/uc?export=download&id=1bE4_h30jq0SjNlkIJvr7ZfEpHfsC5E4d)**  
+
+---
+
+⚠️ **Important Notes:**
+
+- This project uses advanced Excel features (Power Pivot, DAX, Data Model)  
+- Google Sheets preview may not support these features correctly  
+- Please download and open the file in **Microsoft Excel (2016 or later)** for full functionality  
+
+---
+
+💡 **Tip:**  
+Avoid opening the file directly in the browser (Google Sheets preview). Always download it for the best experience.
 
 ---
 
