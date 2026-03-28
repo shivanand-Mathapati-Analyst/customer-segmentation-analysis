@@ -66,6 +66,9 @@ The workbook contains two fully interactive Excel dashboards designed to analyze
 
 Visual breakdown of segment-level revenue, customer counts, orders, and revenue-at-risk using PivotCharts driven by Power Pivot. Slicers allow filtering by country, segment, and time period.
 
+### Champions Segment Performance
+![UK Champions](images/uk-champions-analysis.png)
+
 ### Dashboard 02 — Customer Intelligence Dashboard
 ![Dashboard](images/customer-revenue-intelligence-dashboard.png)
 
@@ -340,7 +343,6 @@ Five segments derived from RFM quintile scoring via DAX:
 **Shivanand S Mathapati**
 Data Analyst | Excel · Power Query · Power Pivot · DAX · SQL · Python (currently learning)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com)
 
 ---
