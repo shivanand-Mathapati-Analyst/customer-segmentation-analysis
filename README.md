@@ -66,8 +66,14 @@ The workbook contains two fully interactive Excel dashboards designed to analyze
 
 Visual breakdown of segment-level revenue, customer counts, orders, and revenue-at-risk using PivotCharts driven by Power Pivot. Slicers allow filtering by country, segment, and time period.
 
+### Revenue At Risk
+![Reveue At Risk](images/revenue-at-risk.png)
+
+### Belgium Customer Segmentation
+![Belgium Customers](images/Belgium-customer-segmentation.png)
+
 ### Champions Segment Performance
-![UK Champions](images/uk-champions-analysis.png)
+![UK Champions Analysis](images/uk-champions-analysis.png)
 
 ### Dashboard 02 — Customer Intelligence Dashboard
 ![Dashboard](images/customer-revenue-intelligence-dashboard.png)
